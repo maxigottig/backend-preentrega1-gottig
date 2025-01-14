@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Camiseta Deportiva",
+        "description": "Camiseta de alta calidad para actividades deportivas",
+        "price": 25.99,
+        "img": "camiseta-deportiva.jpg",
+        "code": "CD1001",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "title": "Zapatillas Running",
+        "description": "Zapatillas cómodas y ligeras para correr",
+        "price": 75.49,
+        "img": "zapatillas-running.jpg",
+        "code": "ZR2002",
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "title": "Botella Térmica",
+        "description": "Botella térmica de acero inoxidable de 500ml",
+        "price": 15.89,
+        "img": "botella-termica.jpg",
+        "code": "BT3003",
+        "stock": 100
+    },
+    {
+        "id": 4,
+        "title": "Mochila Urbana",
+        "description": "Mochila resistente y ligera con múltiples compartimentos",
+        "price": 45.50,
+        "img": "mochila-urbana.jpg",
+        "code": "MU4004",
+        "stock": 25
+    },
+    {
+        "id": 5,
+        "title": "Auriculares Bluetooth",
+        "description": "Auriculares inalámbricos con sonido envolvente",
+        "price": 65.00,
+        "img": "auriculares-bluetooth.jpg",
+        "code": "AB5005",
+        "stock": 40
+    },
+    {
+        "id": 6,
+        "title": "Reloj Inteligente",
+        "description": "Reloj con monitor de actividad y notificaciones",
+        "price": 120.00,
+        "img": "reloj-inteligente.jpg",
+        "code": "RI6006",
+        "stock": 15
+    },
+    {
+        "id": 7,
+        "title": "Chaqueta Impermeable",
+        "description": "Chaqueta ligera y resistente al agua para climas lluviosos",
+        "price": 89.99,
+        "img": "chaqueta-impermeable.jpg",
+        "code": "CI7007",
+        "stock": 20
+    },
+    {
+        "id": 8,
+        "title": "Lentes de Sol",
+        "description": "Lentes de sol polarizados con protección UV",
+        "price": 29.95,
+        "img": "lentes-sol.jpg",
+        "code": "LS8008",
+        "stock": 60
+    },
+    {
+        "id": 9,
+        "title": "Guantes Táctiles",
+        "description": "Guantes térmicos compatibles con pantallas táctiles",
+        "price": 19.99,
+        "img": "guantes-tactiles.jpg",
+        "code": "GT9009",
+        "stock": 75
+    },
+    {
+        "id": 10,
+        "title": "Gorra Deportiva",
+        "description": "Gorra ajustable de diseño transpirable",
+        "price": 12.50,
+        "img": "gorra-deportiva.jpg",
+        "code": "GD1010",
+        "stock": 90
+    }
+]
